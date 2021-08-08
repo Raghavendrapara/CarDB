@@ -2,7 +2,6 @@ package com.starters.cardatabase.domain;
 
 
 
-import java.util.Set;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
